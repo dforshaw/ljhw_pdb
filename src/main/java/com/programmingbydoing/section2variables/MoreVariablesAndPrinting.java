@@ -1,4 +1,4 @@
-package com.programmingbydoing.variables;
+package com.programmingbydoing.section2variables;
 
 /**
  * Programming By Doing

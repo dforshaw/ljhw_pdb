@@ -1,4 +1,4 @@
-package com.programmingbydoing.basicsandprinting;
+package com.programmingbydoing.section1basicsandprinting;
 
 /**
  * Programming By Doing

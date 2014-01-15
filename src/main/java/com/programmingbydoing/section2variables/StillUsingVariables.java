@@ -1,4 +1,4 @@
-package com.programmingbydoing.variables;
+package com.programmingbydoing.section2variables;
 
 /**
  * Created with IntelliJ IDEA.
